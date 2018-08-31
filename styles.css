@@ -1,0 +1,30 @@
+h1 {
+  color: #f7e547;
+}
+.container {
+  background-color: #8D9498;
+}
+body {
+  background-color: #96BBCE;
+}
+.navbar li {
+display: inline;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmmtdmz38XP0CiLqTHpF1-evek5WeAObXlksz8b8fhK2RD6jYlZA");
+}
+.login {
+  float:right
+}
+.login a {
+  cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+  border-color: #f7e547;
+  border-width: 3px;
+  position: relative;
+
+}
+.login a:active {
+  color:#f7e547;
+  top: 3px;
+}
